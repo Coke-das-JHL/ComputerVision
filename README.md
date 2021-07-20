@@ -1,5 +1,5 @@
 # ComputerVision
-ComputerVision, ImageProcessing
+ComputerVision, ImageProcessing With Python
 
 - FL1 : Convert to GrayScale , Change intensity, Hisogram, Otsu Algorithm
 - FL2 : Generate Noise Image, MSE, PSNR, Gaussian Filtering, Zero/Symmetric Padding
