@@ -9,5 +9,5 @@ ComputerVision, ImageProcessing
 - FL6 : Euclidean/Malhalanobis distance, Find major orientation with Harris Method
 - FL7 : MNIST/IRIS Dataset, Design SLP/MLP for classification (Sigmoid,Softmax...) 
 - FL8 : SVM library with MNIST dataset
-- Project1 : 
-- Project2 : 
+- Project1 : Gaussian/Bilateral filtering, Image Restoration(inpaint), Image Transformation(NN/bilinear method), Hough transform
+- Project2 : K-means, Mean-Shift, Local Descriptor, SLP network for IRIS dataset
